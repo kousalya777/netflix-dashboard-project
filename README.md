@@ -26,5 +26,5 @@ This dashboard analyzes Netflix movies and TV shows by genre, rating, release ye
 - Stand-Up Comedy is one of the top genres.
 
 ## Dashboard Screenshot
-![Netflix Dashboard](<img width="1920" height="1080" alt="Netflix_Screenshot" src="https://github.com/user-attachments/assets/4df55c2b-a888-410a-b3ae-68a6884e689c" />)
+![Netflix Dashboard](Netflix_Screenshot.png)
 
